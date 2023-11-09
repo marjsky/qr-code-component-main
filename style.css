@@ -22,7 +22,7 @@ body {
     align-items: center;
     min-height: 100vh;
 }
-/* Mobile viewpoint */
+
 .main-container {
     display: flex;
     flex-direction: column;
@@ -60,5 +60,3 @@ body {
     color: var(--Gray);
     width: 256px;
 }
-
-/* Desktop viewpoint */
